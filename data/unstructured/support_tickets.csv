@@ -1,0 +1,201 @@
+TicketID,ProductID,IssueText
+TCKT1,P1056,Fake product returned for refund.
+TCKT2,P1047,Fake product returned for refund.
+TCKT3,P1098,Warranty not honored.
+TCKT4,P1051,Received wrong product in packaging.
+TCKT5,P1046,Broken item in box.
+TCKT6,P1019,Fake product returned for refund.
+TCKT7,P1077,Warranty not honored.
+TCKT8,P1014,Broken item in box.
+TCKT9,P1021,Fake product returned for refund.
+TCKT10,P1060,Received wrong product in packaging.
+TCKT11,P1015,Broken item in box.
+TCKT12,P1007,Fake product returned for refund.
+TCKT13,P1045,Warranty not honored.
+TCKT14,P1007,Fake product returned for refund.
+TCKT15,P1065,Fake product returned for refund.
+TCKT16,P1046,Customer reported overheating after 2 days.
+TCKT17,P1021,Customer reported overheating after 2 days.
+TCKT18,P1040,Customer reported overheating after 2 days.
+TCKT19,P1003,Warranty not honored.
+TCKT20,P1023,Warranty not honored.
+TCKT21,P1055,Warranty not honored.
+TCKT22,P1019,Warranty not honored.
+TCKT23,P1081,Broken item in box.
+TCKT24,P1031,Fake product returned for refund.
+TCKT25,P1013,Fake product returned for refund.
+TCKT26,P1044,Broken item in box.
+TCKT27,P1084,Received wrong product in packaging.
+TCKT28,P1049,Broken item in box.
+TCKT29,P1001,Fake product returned for refund.
+TCKT30,P1075,Warranty not honored.
+TCKT31,P1040,Fake product returned for refund.
+TCKT32,P1023,Warranty not honored.
+TCKT33,P1035,Customer reported overheating after 2 days.
+TCKT34,P1071,Customer reported overheating after 2 days.
+TCKT35,P1040,Warranty not honored.
+TCKT36,P1063,Broken item in box.
+TCKT37,P1043,Received wrong product in packaging.
+TCKT38,P1051,Customer reported overheating after 2 days.
+TCKT39,P1065,Received wrong product in packaging.
+TCKT40,P1032,Received wrong product in packaging.
+TCKT41,P1029,Fake product returned for refund.
+TCKT42,P1014,Customer reported overheating after 2 days.
+TCKT43,P1039,Broken item in box.
+TCKT44,P1096,Received wrong product in packaging.
+TCKT45,P1090,Fake product returned for refund.
+TCKT46,P1073,Customer reported overheating after 2 days.
+TCKT47,P1067,Fake product returned for refund.
+TCKT48,P1081,Fake product returned for refund.
+TCKT49,P1003,Warranty not honored.
+TCKT50,P1053,Broken item in box.
+TCKT51,P1000,Customer reported overheating after 2 days.
+TCKT52,P1080,Received wrong product in packaging.
+TCKT53,P1006,Customer reported overheating after 2 days.
+TCKT54,P1001,Fake product returned for refund.
+TCKT55,P1000,Customer reported overheating after 2 days.
+TCKT56,P1007,Broken item in box.
+TCKT57,P1007,Broken item in box.
+TCKT58,P1029,Broken item in box.
+TCKT59,P1066,Customer reported overheating after 2 days.
+TCKT60,P1033,Warranty not honored.
+TCKT61,P1002,Warranty not honored.
+TCKT62,P1094,Received wrong product in packaging.
+TCKT63,P1094,Warranty not honored.
+TCKT64,P1067,Customer reported overheating after 2 days.
+TCKT65,P1042,Received wrong product in packaging.
+TCKT66,P1005,Received wrong product in packaging.
+TCKT67,P1013,Customer reported overheating after 2 days.
+TCKT68,P1003,Customer reported overheating after 2 days.
+TCKT69,P1038,Broken item in box.
+TCKT70,P1058,Fake product returned for refund.
+TCKT71,P1098,Broken item in box.
+TCKT72,P1025,Fake product returned for refund.
+TCKT73,P1086,Fake product returned for refund.
+TCKT74,P1089,Broken item in box.
+TCKT75,P1006,Received wrong product in packaging.
+TCKT76,P1077,Broken item in box.
+TCKT77,P1017,Broken item in box.
+TCKT78,P1074,Broken item in box.
+TCKT79,P1041,Fake product returned for refund.
+TCKT80,P1082,Broken item in box.
+TCKT81,P1062,Broken item in box.
+TCKT82,P1059,Warranty not honored.
+TCKT83,P1039,Fake product returned for refund.
+TCKT84,P1029,Warranty not honored.
+TCKT85,P1086,Customer reported overheating after 2 days.
+TCKT86,P1081,Warranty not honored.
+TCKT87,P1075,Warranty not honored.
+TCKT88,P1002,Customer reported overheating after 2 days.
+TCKT89,P1021,Broken item in box.
+TCKT90,P1053,Customer reported overheating after 2 days.
+TCKT91,P1070,Customer reported overheating after 2 days.
+TCKT92,P1088,Broken item in box.
+TCKT93,P1016,Customer reported overheating after 2 days.
+TCKT94,P1079,Customer reported overheating after 2 days.
+TCKT95,P1078,Warranty not honored.
+TCKT96,P1010,Warranty not honored.
+TCKT97,P1033,Received wrong product in packaging.
+TCKT98,P1024,Received wrong product in packaging.
+TCKT99,P1018,Broken item in box.
+TCKT100,P1065,Received wrong product in packaging.
+TCKT101,P1074,Fake product returned for refund.
+TCKT102,P1039,Warranty not honored.
+TCKT103,P1022,Broken item in box.
+TCKT104,P1026,Warranty not honored.
+TCKT105,P1041,Customer reported overheating after 2 days.
+TCKT106,P1062,Received wrong product in packaging.
+TCKT107,P1070,Broken item in box.
+TCKT108,P1034,Received wrong product in packaging.
+TCKT109,P1086,Fake product returned for refund.
+TCKT110,P1074,Warranty not honored.
+TCKT111,P1093,Received wrong product in packaging.
+TCKT112,P1082,Broken item in box.
+TCKT113,P1070,Broken item in box.
+TCKT114,P1009,Fake product returned for refund.
+TCKT115,P1000,Warranty not honored.
+TCKT116,P1044,Received wrong product in packaging.
+TCKT117,P1007,Received wrong product in packaging.
+TCKT118,P1062,Fake product returned for refund.
+TCKT119,P1070,Broken item in box.
+TCKT120,P1051,Fake product returned for refund.
+TCKT121,P1003,Received wrong product in packaging.
+TCKT122,P1046,Fake product returned for refund.
+TCKT123,P1083,Broken item in box.
+TCKT124,P1011,Warranty not honored.
+TCKT125,P1009,Warranty not honored.
+TCKT126,P1070,Received wrong product in packaging.
+TCKT127,P1030,Fake product returned for refund.
+TCKT128,P1024,Customer reported overheating after 2 days.
+TCKT129,P1074,Warranty not honored.
+TCKT130,P1094,Warranty not honored.
+TCKT131,P1059,Fake product returned for refund.
+TCKT132,P1036,Fake product returned for refund.
+TCKT133,P1036,Customer reported overheating after 2 days.
+TCKT134,P1043,Fake product returned for refund.
+TCKT135,P1094,Customer reported overheating after 2 days.
+TCKT136,P1064,Broken item in box.
+TCKT137,P1099,Customer reported overheating after 2 days.
+TCKT138,P1097,Broken item in box.
+TCKT139,P1099,Fake product returned for refund.
+TCKT140,P1017,Fake product returned for refund.
+TCKT141,P1010,Received wrong product in packaging.
+TCKT142,P1013,Warranty not honored.
+TCKT143,P1038,Fake product returned for refund.
+TCKT144,P1054,Fake product returned for refund.
+TCKT145,P1033,Customer reported overheating after 2 days.
+TCKT146,P1080,Warranty not honored.
+TCKT147,P1080,Broken item in box.
+TCKT148,P1062,Warranty not honored.
+TCKT149,P1034,Received wrong product in packaging.
+TCKT150,P1044,Received wrong product in packaging.
+TCKT151,P1056,Customer reported overheating after 2 days.
+TCKT152,P1058,Broken item in box.
+TCKT153,P1049,Warranty not honored.
+TCKT154,P1041,Warranty not honored.
+TCKT155,P1059,Broken item in box.
+TCKT156,P1048,Fake product returned for refund.
+TCKT157,P1032,Received wrong product in packaging.
+TCKT158,P1069,Customer reported overheating after 2 days.
+TCKT159,P1088,Fake product returned for refund.
+TCKT160,P1044,Broken item in box.
+TCKT161,P1037,Customer reported overheating after 2 days.
+TCKT162,P1004,Received wrong product in packaging.
+TCKT163,P1098,Fake product returned for refund.
+TCKT164,P1098,Fake product returned for refund.
+TCKT165,P1094,Warranty not honored.
+TCKT166,P1088,Customer reported overheating after 2 days.
+TCKT167,P1030,Warranty not honored.
+TCKT168,P1015,Broken item in box.
+TCKT169,P1031,Fake product returned for refund.
+TCKT170,P1052,Broken item in box.
+TCKT171,P1020,Broken item in box.
+TCKT172,P1061,Broken item in box.
+TCKT173,P1073,Customer reported overheating after 2 days.
+TCKT174,P1047,Warranty not honored.
+TCKT175,P1081,Warranty not honored.
+TCKT176,P1001,Received wrong product in packaging.
+TCKT177,P1008,Received wrong product in packaging.
+TCKT178,P1007,Received wrong product in packaging.
+TCKT179,P1060,Customer reported overheating after 2 days.
+TCKT180,P1090,Fake product returned for refund.
+TCKT181,P1013,Broken item in box.
+TCKT182,P1041,Fake product returned for refund.
+TCKT183,P1015,Customer reported overheating after 2 days.
+TCKT184,P1044,Customer reported overheating after 2 days.
+TCKT185,P1029,Received wrong product in packaging.
+TCKT186,P1005,Customer reported overheating after 2 days.
+TCKT187,P1073,Warranty not honored.
+TCKT188,P1078,Customer reported overheating after 2 days.
+TCKT189,P1021,Customer reported overheating after 2 days.
+TCKT190,P1064,Broken item in box.
+TCKT191,P1000,Fake product returned for refund.
+TCKT192,P1054,Customer reported overheating after 2 days.
+TCKT193,P1095,Customer reported overheating after 2 days.
+TCKT194,P1089,Fake product returned for refund.
+TCKT195,P1093,Received wrong product in packaging.
+TCKT196,P1076,Fake product returned for refund.
+TCKT197,P1024,Received wrong product in packaging.
+TCKT198,P1078,Customer reported overheating after 2 days.
+TCKT199,P1093,Fake product returned for refund.
+TCKT200,P1011,Customer reported overheating after 2 days.

@@ -1,0 +1,301 @@
+ProductID,IssueDescription,DateClaimed,Outcome
+P1014,Stopped Working,2024-10-25,Rejected
+P1074,Stopped Working,2025-07-30,Rejected
+P1031,Overheating,2025-06-02,Rejected
+P1046,Battery Drain,2024-07-21,Approved
+P1041,Overheating,2023-10-28,Rejected
+P1080,Battery Drain,2025-01-28,Approved
+P1064,Stopped Working,2023-11-19,Rejected
+P1004,Battery Drain,2024-10-18,Rejected
+P1072,Overheating,2025-06-11,Pending
+P1007,Battery Drain,2025-05-16,Pending
+P1086,Stopped Working,2025-07-21,Approved
+P1083,Overheating,2024-03-13,Rejected
+P1005,Stopped Working,2024-04-30,Rejected
+P1008,Overheating,2024-08-03,Pending
+P1066,Battery Drain,2025-02-17,Rejected
+P1084,Battery Drain,2025-07-04,Pending
+P1016,Overheating,2023-09-03,Approved
+P1052,Overheating,2025-01-14,Pending
+P1071,Battery Drain,2024-06-26,Pending
+P1034,Stopped Working,2025-05-11,Rejected
+P1074,Stopped Working,2023-09-29,Pending
+P1007,Stopped Working,2025-04-29,Pending
+P1068,Stopped Working,2024-10-01,Pending
+P1069,Stopped Working,2025-04-07,Approved
+P1072,Overheating,2023-12-10,Approved
+P1039,Battery Drain,2025-08-10,Pending
+P1083,Display Flicker,2024-02-22,Approved
+P1023,Stopped Working,2024-10-12,Rejected
+P1057,Display Flicker,2024-05-08,Approved
+P1034,Display Flicker,2025-03-01,Pending
+P1045,Overheating,2024-04-28,Pending
+P1046,Overheating,2025-08-12,Rejected
+P1061,Display Flicker,2024-04-20,Approved
+P1017,Overheating,2025-02-21,Approved
+P1033,Stopped Working,2024-07-15,Approved
+P1013,Stopped Working,2025-04-13,Rejected
+P1084,Stopped Working,2024-11-16,Rejected
+P1075,Display Flicker,2024-08-22,Pending
+P1006,Battery Drain,2024-09-16,Rejected
+P1065,Overheating,2024-02-25,Approved
+P1095,Battery Drain,2024-03-04,Pending
+P1070,Battery Drain,2024-11-03,Pending
+P1072,Display Flicker,2024-08-22,Rejected
+P1045,Stopped Working,2025-06-11,Pending
+P1011,Battery Drain,2024-12-18,Rejected
+P1002,Battery Drain,2025-06-01,Approved
+P1022,Display Flicker,2025-06-20,Approved
+P1054,Stopped Working,2024-03-25,Pending
+P1038,Display Flicker,2024-02-19,Approved
+P1051,Battery Drain,2024-02-20,Rejected
+P1099,Stopped Working,2024-12-30,Pending
+P1041,Battery Drain,2024-10-03,Pending
+P1023,Overheating,2025-07-18,Pending
+P1096,Display Flicker,2024-05-22,Rejected
+P1037,Battery Drain,2025-06-24,Approved
+P1007,Display Flicker,2024-03-02,Approved
+P1079,Display Flicker,2025-03-07,Rejected
+P1005,Overheating,2024-06-16,Rejected
+P1045,Overheating,2024-10-13,Approved
+P1061,Display Flicker,2023-10-29,Rejected
+P1044,Battery Drain,2024-01-03,Pending
+P1045,Display Flicker,2025-06-30,Approved
+P1061,Stopped Working,2025-06-02,Pending
+P1043,Battery Drain,2025-01-08,Pending
+P1037,Stopped Working,2024-04-06,Rejected
+P1016,Overheating,2025-06-06,Approved
+P1004,Display Flicker,2023-12-17,Approved
+P1078,Battery Drain,2024-08-21,Pending
+P1038,Stopped Working,2025-05-13,Pending
+P1016,Display Flicker,2025-01-15,Rejected
+P1002,Display Flicker,2023-12-28,Rejected
+P1029,Overheating,2025-06-15,Approved
+P1059,Overheating,2024-09-04,Rejected
+P1056,Stopped Working,2024-06-01,Approved
+P1055,Stopped Working,2023-09-05,Rejected
+P1062,Display Flicker,2025-07-20,Pending
+P1077,Overheating,2025-05-03,Rejected
+P1085,Display Flicker,2025-05-21,Rejected
+P1053,Battery Drain,2024-01-18,Rejected
+P1077,Stopped Working,2025-03-09,Approved
+P1030,Battery Drain,2025-07-01,Pending
+P1062,Stopped Working,2024-11-22,Rejected
+P1068,Battery Drain,2025-06-03,Approved
+P1076,Battery Drain,2025-08-16,Pending
+P1059,Battery Drain,2024-07-17,Pending
+P1049,Display Flicker,2023-10-31,Rejected
+P1028,Battery Drain,2024-07-08,Pending
+P1062,Stopped Working,2025-06-06,Rejected
+P1037,Battery Drain,2025-02-02,Pending
+P1020,Stopped Working,2024-09-25,Rejected
+P1085,Overheating,2024-07-09,Rejected
+P1013,Overheating,2023-12-09,Rejected
+P1074,Display Flicker,2024-01-05,Pending
+P1004,Stopped Working,2024-04-19,Pending
+P1066,Stopped Working,2024-03-03,Rejected
+P1053,Display Flicker,2023-12-07,Approved
+P1072,Overheating,2025-05-27,Rejected
+P1072,Overheating,2023-10-21,Pending
+P1051,Display Flicker,2025-03-17,Pending
+P1037,Stopped Working,2025-06-18,Approved
+P1091,Battery Drain,2024-03-04,Rejected
+P1090,Battery Drain,2024-01-05,Rejected
+P1024,Display Flicker,2025-07-13,Rejected
+P1009,Battery Drain,2025-03-18,Rejected
+P1050,Battery Drain,2025-04-22,Rejected
+P1076,Overheating,2024-02-18,Rejected
+P1085,Stopped Working,2024-03-19,Pending
+P1038,Overheating,2023-12-04,Pending
+P1056,Display Flicker,2023-11-03,Approved
+P1070,Stopped Working,2024-10-22,Pending
+P1025,Display Flicker,2023-08-28,Approved
+P1078,Stopped Working,2023-12-23,Approved
+P1049,Display Flicker,2025-03-16,Approved
+P1038,Battery Drain,2024-04-15,Pending
+P1088,Display Flicker,2025-03-09,Approved
+P1050,Stopped Working,2025-05-17,Approved
+P1006,Stopped Working,2024-06-17,Approved
+P1060,Display Flicker,2025-07-18,Pending
+P1024,Display Flicker,2025-03-08,Approved
+P1035,Stopped Working,2025-07-09,Rejected
+P1083,Overheating,2024-12-19,Pending
+P1014,Overheating,2023-10-01,Pending
+P1010,Display Flicker,2023-09-20,Approved
+P1011,Stopped Working,2025-07-05,Pending
+P1025,Overheating,2024-01-29,Pending
+P1003,Display Flicker,2024-10-12,Rejected
+P1021,Battery Drain,2024-10-17,Approved
+P1046,Battery Drain,2025-06-17,Pending
+P1003,Battery Drain,2024-10-05,Pending
+P1069,Stopped Working,2025-08-06,Rejected
+P1029,Battery Drain,2024-10-25,Approved
+P1052,Battery Drain,2023-10-10,Rejected
+P1033,Display Flicker,2024-12-06,Pending
+P1044,Overheating,2024-04-19,Rejected
+P1087,Stopped Working,2024-05-22,Approved
+P1047,Display Flicker,2025-08-21,Pending
+P1004,Overheating,2024-03-04,Rejected
+P1084,Overheating,2024-06-01,Approved
+P1092,Display Flicker,2024-08-02,Rejected
+P1088,Overheating,2024-09-24,Pending
+P1015,Display Flicker,2024-10-06,Approved
+P1001,Stopped Working,2024-09-22,Approved
+P1006,Stopped Working,2024-10-27,Pending
+P1043,Stopped Working,2024-09-25,Pending
+P1087,Battery Drain,2024-04-03,Pending
+P1028,Battery Drain,2023-09-20,Pending
+P1087,Display Flicker,2025-07-22,Approved
+P1018,Overheating,2024-11-22,Pending
+P1077,Display Flicker,2024-08-21,Approved
+P1053,Display Flicker,2024-07-07,Approved
+P1091,Battery Drain,2024-06-25,Approved
+P1030,Display Flicker,2023-10-18,Approved
+P1082,Overheating,2025-04-28,Approved
+P1082,Stopped Working,2024-03-26,Pending
+P1046,Overheating,2024-07-15,Rejected
+P1040,Stopped Working,2025-04-18,Pending
+P1047,Battery Drain,2024-01-14,Approved
+P1086,Display Flicker,2025-05-16,Pending
+P1007,Stopped Working,2025-05-12,Approved
+P1032,Display Flicker,2023-09-07,Rejected
+P1053,Display Flicker,2024-05-16,Pending
+P1072,Battery Drain,2024-09-19,Pending
+P1045,Stopped Working,2025-04-16,Rejected
+P1020,Stopped Working,2024-07-16,Pending
+P1075,Overheating,2024-08-09,Pending
+P1000,Display Flicker,2024-02-02,Pending
+P1083,Display Flicker,2025-02-19,Pending
+P1002,Display Flicker,2024-05-16,Approved
+P1038,Stopped Working,2024-12-19,Approved
+P1063,Stopped Working,2024-04-26,Approved
+P1006,Stopped Working,2025-02-28,Approved
+P1009,Overheating,2025-02-12,Rejected
+P1012,Overheating,2024-03-04,Pending
+P1041,Display Flicker,2024-08-14,Approved
+P1007,Battery Drain,2024-10-13,Approved
+P1011,Display Flicker,2025-07-08,Rejected
+P1072,Stopped Working,2024-10-03,Approved
+P1093,Display Flicker,2025-05-29,Pending
+P1069,Display Flicker,2025-02-26,Pending
+P1034,Stopped Working,2023-11-16,Pending
+P1074,Stopped Working,2024-10-20,Pending
+P1042,Battery Drain,2024-02-20,Approved
+P1041,Stopped Working,2023-09-16,Rejected
+P1053,Overheating,2025-02-10,Rejected
+P1013,Display Flicker,2025-02-14,Approved
+P1001,Battery Drain,2025-04-14,Pending
+P1066,Stopped Working,2023-09-21,Rejected
+P1099,Display Flicker,2023-10-29,Pending
+P1033,Display Flicker,2024-12-09,Rejected
+P1002,Battery Drain,2025-06-24,Approved
+P1022,Display Flicker,2024-10-03,Rejected
+P1070,Battery Drain,2024-09-18,Approved
+P1030,Battery Drain,2023-12-12,Approved
+P1003,Overheating,2025-05-25,Pending
+P1065,Display Flicker,2025-01-02,Approved
+P1093,Overheating,2025-06-02,Rejected
+P1032,Overheating,2025-07-05,Approved
+P1071,Overheating,2023-12-07,Approved
+P1032,Stopped Working,2025-04-07,Rejected
+P1026,Display Flicker,2025-03-14,Approved
+P1098,Display Flicker,2023-12-15,Approved
+P1078,Battery Drain,2025-01-28,Rejected
+P1007,Battery Drain,2025-01-01,Rejected
+P1036,Battery Drain,2024-03-08,Rejected
+P1067,Battery Drain,2025-05-12,Rejected
+P1023,Display Flicker,2024-10-23,Approved
+P1005,Display Flicker,2025-04-15,Approved
+P1072,Display Flicker,2024-02-16,Pending
+P1099,Display Flicker,2025-03-26,Approved
+P1078,Battery Drain,2024-11-13,Rejected
+P1015,Battery Drain,2024-09-01,Pending
+P1033,Battery Drain,2025-05-28,Approved
+P1083,Overheating,2025-06-03,Approved
+P1027,Battery Drain,2024-04-06,Rejected
+P1073,Overheating,2024-03-05,Rejected
+P1007,Battery Drain,2023-10-06,Approved
+P1001,Battery Drain,2025-08-05,Approved
+P1039,Battery Drain,2025-03-12,Rejected
+P1066,Stopped Working,2024-02-22,Approved
+P1012,Stopped Working,2024-09-21,Rejected
+P1045,Stopped Working,2024-12-07,Approved
+P1095,Display Flicker,2023-10-27,Rejected
+P1036,Overheating,2024-04-02,Pending
+P1093,Display Flicker,2024-10-12,Pending
+P1027,Display Flicker,2023-09-22,Pending
+P1016,Display Flicker,2023-11-10,Approved
+P1046,Overheating,2024-01-10,Approved
+P1079,Battery Drain,2025-04-25,Approved
+P1073,Stopped Working,2025-02-15,Rejected
+P1033,Stopped Working,2025-04-05,Rejected
+P1074,Display Flicker,2024-11-14,Pending
+P1039,Battery Drain,2025-07-31,Approved
+P1098,Display Flicker,2024-03-19,Rejected
+P1035,Stopped Working,2023-09-09,Pending
+P1053,Battery Drain,2024-02-04,Rejected
+P1047,Overheating,2025-04-28,Approved
+P1047,Stopped Working,2025-01-24,Rejected
+P1091,Overheating,2023-10-03,Pending
+P1049,Overheating,2024-05-16,Rejected
+P1026,Battery Drain,2024-01-25,Rejected
+P1099,Stopped Working,2024-03-08,Rejected
+P1003,Display Flicker,2024-09-17,Approved
+P1095,Battery Drain,2024-07-14,Pending
+P1027,Display Flicker,2024-12-23,Approved
+P1005,Stopped Working,2023-09-18,Pending
+P1078,Overheating,2023-11-10,Approved
+P1067,Stopped Working,2024-02-11,Approved
+P1052,Display Flicker,2024-10-23,Pending
+P1031,Stopped Working,2024-10-25,Approved
+P1014,Overheating,2024-10-19,Approved
+P1070,Overheating,2024-05-17,Pending
+P1006,Overheating,2024-09-14,Rejected
+P1070,Battery Drain,2024-06-06,Rejected
+P1093,Display Flicker,2025-04-02,Pending
+P1033,Battery Drain,2025-07-22,Approved
+P1043,Overheating,2024-04-13,Rejected
+P1022,Stopped Working,2025-02-09,Pending
+P1096,Battery Drain,2025-05-16,Rejected
+P1038,Display Flicker,2024-11-17,Rejected
+P1024,Battery Drain,2024-09-09,Rejected
+P1016,Stopped Working,2023-09-14,Pending
+P1032,Stopped Working,2023-12-30,Rejected
+P1002,Battery Drain,2024-07-29,Approved
+P1043,Overheating,2023-10-14,Rejected
+P1033,Battery Drain,2023-11-07,Approved
+P1007,Overheating,2025-02-15,Pending
+P1075,Battery Drain,2023-11-16,Rejected
+P1009,Display Flicker,2024-03-24,Rejected
+P1032,Stopped Working,2023-11-25,Pending
+P1074,Battery Drain,2024-07-28,Rejected
+P1047,Stopped Working,2025-05-16,Pending
+P1009,Display Flicker,2025-02-27,Rejected
+P1011,Stopped Working,2025-05-09,Pending
+P1021,Overheating,2024-06-08,Pending
+P1078,Overheating,2024-06-23,Rejected
+P1008,Overheating,2023-11-13,Approved
+P1006,Stopped Working,2023-09-14,Approved
+P1049,Overheating,2023-09-01,Approved
+P1072,Overheating,2025-06-26,Rejected
+P1037,Stopped Working,2025-06-27,Approved
+P1072,Stopped Working,2024-10-15,Pending
+P1077,Overheating,2024-06-24,Rejected
+P1020,Stopped Working,2024-12-01,Rejected
+P1005,Overheating,2025-03-29,Approved
+P1084,Stopped Working,2024-04-13,Rejected
+P1097,Stopped Working,2024-04-19,Approved
+P1031,Display Flicker,2025-03-10,Approved
+P1079,Stopped Working,2023-12-18,Rejected
+P1067,Battery Drain,2025-07-10,Rejected
+P1039,Display Flicker,2024-05-22,Approved
+P1041,Display Flicker,2023-11-29,Rejected
+P1079,Stopped Working,2024-08-05,Pending
+P1056,Battery Drain,2024-05-22,Approved
+P1014,Display Flicker,2024-08-22,Rejected
+P1035,Overheating,2024-02-01,Rejected
+P1007,Battery Drain,2025-06-24,Pending
+P1060,Display Flicker,2023-10-28,Approved
+P1052,Display Flicker,2024-12-20,Pending
+P1089,Battery Drain,2024-01-23,Rejected
+P1002,Overheating,2024-11-02,Rejected

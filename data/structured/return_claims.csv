@@ -1,0 +1,301 @@
+ReturnID,ProductID,Reason,Approved,ReturnImagePath
+R1,P1033,Defective,No,product_images/img_1000.jpg
+R2,P1024,Fake,No,product_images/img_1001.jpg
+R3,P1027,Damaged,Yes,product_images/img_1002.jpg
+R4,P1099,Defective,No,product_images/img_1003.jpg
+R5,P1049,Fake,No,product_images/img_1004.jpg
+R6,P1072,Defective,Yes,product_images/img_1005.jpg
+R7,P1020,Defective,No,product_images/img_1006.jpg
+R8,P1009,Damaged,No,product_images/img_1007.jpg
+R9,P1032,Defective,No,product_images/img_1008.jpg
+R10,P1079,Defective,Yes,product_images/img_1009.jpg
+R11,P1051,Damaged,No,product_images/img_1010.jpg
+R12,P1006,Defective,Yes,product_images/img_1011.jpg
+R13,P1011,Damaged,Yes,product_images/img_1012.jpg
+R14,P1024,Defective,No,product_images/img_1013.jpg
+R15,P1041,Fake,No,product_images/img_1014.jpg
+R16,P1012,Fake,Yes,product_images/img_1015.jpg
+R17,P1050,Defective,Yes,product_images/img_1016.jpg
+R18,P1025,Fake,No,product_images/img_1017.jpg
+R19,P1036,Fake,No,product_images/img_1018.jpg
+R20,P1058,Damaged,Yes,product_images/img_1019.jpg
+R21,P1054,Damaged,Yes,product_images/img_1020.jpg
+R22,P1005,Damaged,Yes,product_images/img_1021.jpg
+R23,P1002,Defective,No,product_images/img_1022.jpg
+R24,P1078,Damaged,Yes,product_images/img_1023.jpg
+R25,P1030,Damaged,Yes,product_images/img_1024.jpg
+R26,P1046,Damaged,Yes,product_images/img_1025.jpg
+R27,P1029,Defective,No,product_images/img_1026.jpg
+R28,P1060,Wrong Item,No,product_images/img_1027.jpg
+R29,P1021,Defective,Yes,product_images/img_1028.jpg
+R30,P1012,Defective,No,product_images/img_1029.jpg
+R31,P1033,Fake,Yes,product_images/img_1030.jpg
+R32,P1025,Damaged,Yes,product_images/img_1031.jpg
+R33,P1025,Wrong Item,No,product_images/img_1032.jpg
+R34,P1014,Defective,Yes,product_images/img_1033.jpg
+R35,P1090,Fake,Yes,product_images/img_1034.jpg
+R36,P1044,Damaged,Yes,product_images/img_1035.jpg
+R37,P1018,Wrong Item,No,product_images/img_1036.jpg
+R38,P1078,Defective,Yes,product_images/img_1037.jpg
+R39,P1080,Wrong Item,No,product_images/img_1038.jpg
+R40,P1000,Wrong Item,No,product_images/img_1039.jpg
+R41,P1036,Defective,Yes,product_images/img_1040.jpg
+R42,P1081,Defective,Yes,product_images/img_1041.jpg
+R43,P1009,Fake,Yes,product_images/img_1042.jpg
+R44,P1047,Damaged,Yes,product_images/img_1043.jpg
+R45,P1085,Fake,Yes,product_images/img_1044.jpg
+R46,P1040,Fake,Yes,product_images/img_1045.jpg
+R47,P1001,Wrong Item,No,product_images/img_1046.jpg
+R48,P1050,Defective,No,product_images/img_1047.jpg
+R49,P1041,Wrong Item,No,product_images/img_1048.jpg
+R50,P1070,Fake,Yes,product_images/img_1049.jpg
+R51,P1053,Wrong Item,Yes,product_images/img_1050.jpg
+R52,P1007,Wrong Item,Yes,product_images/img_1051.jpg
+R53,P1071,Defective,Yes,product_images/img_1052.jpg
+R54,P1057,Fake,No,product_images/img_1053.jpg
+R55,P1030,Wrong Item,No,product_images/img_1054.jpg
+R56,P1019,Damaged,Yes,product_images/img_1055.jpg
+R57,P1084,Damaged,Yes,product_images/img_1056.jpg
+R58,P1046,Wrong Item,No,product_images/img_1057.jpg
+R59,P1010,Defective,Yes,product_images/img_1058.jpg
+R60,P1071,Defective,Yes,product_images/img_1059.jpg
+R61,P1026,Damaged,Yes,product_images/img_1060.jpg
+R62,P1031,Fake,Yes,product_images/img_1061.jpg
+R63,P1067,Damaged,No,product_images/img_1062.jpg
+R64,P1089,Fake,No,product_images/img_1063.jpg
+R65,P1050,Wrong Item,Yes,product_images/img_1064.jpg
+R66,P1021,Wrong Item,No,product_images/img_1065.jpg
+R67,P1084,Wrong Item,No,product_images/img_1066.jpg
+R68,P1088,Wrong Item,Yes,product_images/img_1067.jpg
+R69,P1044,Fake,Yes,product_images/img_1068.jpg
+R70,P1028,Wrong Item,No,product_images/img_1069.jpg
+R71,P1092,Defective,No,product_images/img_1070.jpg
+R72,P1066,Fake,No,product_images/img_1071.jpg
+R73,P1012,Wrong Item,Yes,product_images/img_1072.jpg
+R74,P1046,Damaged,No,product_images/img_1073.jpg
+R75,P1095,Wrong Item,Yes,product_images/img_1074.jpg
+R76,P1005,Wrong Item,No,product_images/img_1075.jpg
+R77,P1008,Defective,Yes,product_images/img_1076.jpg
+R78,P1030,Fake,No,product_images/img_1077.jpg
+R79,P1042,Damaged,Yes,product_images/img_1078.jpg
+R80,P1067,Fake,Yes,product_images/img_1079.jpg
+R81,P1037,Fake,No,product_images/img_1080.jpg
+R82,P1057,Defective,Yes,product_images/img_1081.jpg
+R83,P1099,Defective,Yes,product_images/img_1082.jpg
+R84,P1092,Fake,Yes,product_images/img_1083.jpg
+R85,P1081,Damaged,Yes,product_images/img_1084.jpg
+R86,P1047,Damaged,No,product_images/img_1085.jpg
+R87,P1008,Fake,No,product_images/img_1086.jpg
+R88,P1005,Defective,Yes,product_images/img_1087.jpg
+R89,P1069,Defective,Yes,product_images/img_1088.jpg
+R90,P1069,Damaged,Yes,product_images/img_1089.jpg
+R91,P1074,Defective,Yes,product_images/img_1090.jpg
+R92,P1040,Fake,Yes,product_images/img_1091.jpg
+R93,P1078,Damaged,Yes,product_images/img_1092.jpg
+R94,P1017,Damaged,Yes,product_images/img_1093.jpg
+R95,P1025,Fake,No,product_images/img_1094.jpg
+R96,P1012,Damaged,No,product_images/img_1095.jpg
+R97,P1056,Defective,No,product_images/img_1096.jpg
+R98,P1040,Damaged,No,product_images/img_1097.jpg
+R99,P1054,Damaged,No,product_images/img_1098.jpg
+R100,P1074,Damaged,Yes,product_images/img_1099.jpg
+R101,P1066,Damaged,Yes,product_images/img_1100.jpg
+R102,P1052,Fake,Yes,product_images/img_1101.jpg
+R103,P1070,Wrong Item,Yes,product_images/img_1102.jpg
+R104,P1035,Wrong Item,No,product_images/img_1103.jpg
+R105,P1086,Damaged,Yes,product_images/img_1104.jpg
+R106,P1054,Defective,Yes,product_images/img_1105.jpg
+R107,P1086,Damaged,Yes,product_images/img_1106.jpg
+R108,P1082,Defective,Yes,product_images/img_1107.jpg
+R109,P1050,Fake,No,product_images/img_1108.jpg
+R110,P1036,Defective,Yes,product_images/img_1109.jpg
+R111,P1025,Wrong Item,No,product_images/img_1110.jpg
+R112,P1075,Fake,No,product_images/img_1111.jpg
+R113,P1052,Fake,Yes,product_images/img_1112.jpg
+R114,P1086,Defective,No,product_images/img_1113.jpg
+R115,P1008,Damaged,No,product_images/img_1114.jpg
+R116,P1060,Damaged,Yes,product_images/img_1115.jpg
+R117,P1083,Damaged,No,product_images/img_1116.jpg
+R118,P1088,Damaged,Yes,product_images/img_1117.jpg
+R119,P1074,Damaged,Yes,product_images/img_1118.jpg
+R120,P1077,Defective,Yes,product_images/img_1119.jpg
+R121,P1044,Fake,Yes,product_images/img_1120.jpg
+R122,P1091,Fake,No,product_images/img_1121.jpg
+R123,P1080,Damaged,No,product_images/img_1122.jpg
+R124,P1081,Wrong Item,Yes,product_images/img_1123.jpg
+R125,P1089,Damaged,No,product_images/img_1124.jpg
+R126,P1092,Damaged,Yes,product_images/img_1125.jpg
+R127,P1099,Fake,No,product_images/img_1126.jpg
+R128,P1081,Damaged,No,product_images/img_1127.jpg
+R129,P1065,Wrong Item,No,product_images/img_1128.jpg
+R130,P1017,Defective,No,product_images/img_1129.jpg
+R131,P1001,Fake,No,product_images/img_1130.jpg
+R132,P1008,Wrong Item,No,product_images/img_1131.jpg
+R133,P1059,Fake,No,product_images/img_1132.jpg
+R134,P1053,Damaged,No,product_images/img_1133.jpg
+R135,P1090,Fake,No,product_images/img_1134.jpg
+R136,P1014,Wrong Item,Yes,product_images/img_1135.jpg
+R137,P1084,Wrong Item,No,product_images/img_1136.jpg
+R138,P1094,Defective,Yes,product_images/img_1137.jpg
+R139,P1043,Defective,No,product_images/img_1138.jpg
+R140,P1084,Fake,No,product_images/img_1139.jpg
+R141,P1082,Wrong Item,Yes,product_images/img_1140.jpg
+R142,P1019,Damaged,No,product_images/img_1141.jpg
+R143,P1078,Wrong Item,No,product_images/img_1142.jpg
+R144,P1000,Fake,Yes,product_images/img_1143.jpg
+R145,P1015,Defective,Yes,product_images/img_1144.jpg
+R146,P1084,Fake,No,product_images/img_1145.jpg
+R147,P1060,Damaged,Yes,product_images/img_1146.jpg
+R148,P1038,Defective,Yes,product_images/img_1147.jpg
+R149,P1096,Defective,No,product_images/img_1148.jpg
+R150,P1070,Damaged,Yes,product_images/img_1149.jpg
+R151,P1091,Defective,No,product_images/img_1150.jpg
+R152,P1030,Fake,Yes,product_images/img_1151.jpg
+R153,P1089,Defective,Yes,product_images/img_1152.jpg
+R154,P1092,Defective,Yes,product_images/img_1153.jpg
+R155,P1075,Wrong Item,No,product_images/img_1154.jpg
+R156,P1044,Damaged,Yes,product_images/img_1155.jpg
+R157,P1083,Defective,Yes,product_images/img_1156.jpg
+R158,P1030,Fake,No,product_images/img_1157.jpg
+R159,P1023,Fake,Yes,product_images/img_1158.jpg
+R160,P1014,Damaged,No,product_images/img_1159.jpg
+R161,P1090,Fake,No,product_images/img_1160.jpg
+R162,P1065,Defective,Yes,product_images/img_1161.jpg
+R163,P1033,Fake,Yes,product_images/img_1162.jpg
+R164,P1096,Defective,Yes,product_images/img_1163.jpg
+R165,P1064,Wrong Item,Yes,product_images/img_1164.jpg
+R166,P1010,Wrong Item,No,product_images/img_1165.jpg
+R167,P1045,Fake,No,product_images/img_1166.jpg
+R168,P1040,Wrong Item,Yes,product_images/img_1167.jpg
+R169,P1070,Defective,No,product_images/img_1168.jpg
+R170,P1086,Wrong Item,No,product_images/img_1169.jpg
+R171,P1068,Damaged,No,product_images/img_1170.jpg
+R172,P1028,Wrong Item,Yes,product_images/img_1171.jpg
+R173,P1059,Damaged,Yes,product_images/img_1172.jpg
+R174,P1090,Fake,Yes,product_images/img_1173.jpg
+R175,P1086,Damaged,No,product_images/img_1174.jpg
+R176,P1060,Wrong Item,No,product_images/img_1175.jpg
+R177,P1094,Fake,No,product_images/img_1176.jpg
+R178,P1090,Defective,Yes,product_images/img_1177.jpg
+R179,P1024,Defective,Yes,product_images/img_1178.jpg
+R180,P1004,Defective,Yes,product_images/img_1179.jpg
+R181,P1048,Wrong Item,Yes,product_images/img_1180.jpg
+R182,P1039,Fake,No,product_images/img_1181.jpg
+R183,P1043,Damaged,Yes,product_images/img_1182.jpg
+R184,P1042,Wrong Item,No,product_images/img_1183.jpg
+R185,P1011,Wrong Item,Yes,product_images/img_1184.jpg
+R186,P1035,Wrong Item,Yes,product_images/img_1185.jpg
+R187,P1043,Fake,Yes,product_images/img_1186.jpg
+R188,P1046,Fake,Yes,product_images/img_1187.jpg
+R189,P1091,Wrong Item,No,product_images/img_1188.jpg
+R190,P1097,Damaged,Yes,product_images/img_1189.jpg
+R191,P1085,Defective,Yes,product_images/img_1190.jpg
+R192,P1085,Wrong Item,Yes,product_images/img_1191.jpg
+R193,P1043,Defective,Yes,product_images/img_1192.jpg
+R194,P1079,Damaged,No,product_images/img_1193.jpg
+R195,P1033,Wrong Item,No,product_images/img_1194.jpg
+R196,P1006,Defective,No,product_images/img_1195.jpg
+R197,P1056,Fake,No,product_images/img_1196.jpg
+R198,P1090,Wrong Item,Yes,product_images/img_1197.jpg
+R199,P1069,Fake,Yes,product_images/img_1198.jpg
+R200,P1087,Damaged,Yes,product_images/img_1199.jpg
+R201,P1088,Wrong Item,Yes,product_images/img_1200.jpg
+R202,P1079,Defective,Yes,product_images/img_1201.jpg
+R203,P1086,Fake,No,product_images/img_1202.jpg
+R204,P1034,Defective,No,product_images/img_1203.jpg
+R205,P1081,Damaged,Yes,product_images/img_1204.jpg
+R206,P1066,Wrong Item,No,product_images/img_1205.jpg
+R207,P1034,Damaged,Yes,product_images/img_1206.jpg
+R208,P1029,Fake,No,product_images/img_1207.jpg
+R209,P1077,Fake,No,product_images/img_1208.jpg
+R210,P1059,Damaged,Yes,product_images/img_1209.jpg
+R211,P1055,Damaged,Yes,product_images/img_1210.jpg
+R212,P1069,Fake,No,product_images/img_1211.jpg
+R213,P1071,Wrong Item,No,product_images/img_1212.jpg
+R214,P1075,Defective,Yes,product_images/img_1213.jpg
+R215,P1005,Damaged,No,product_images/img_1214.jpg
+R216,P1097,Fake,No,product_images/img_1215.jpg
+R217,P1016,Wrong Item,Yes,product_images/img_1216.jpg
+R218,P1068,Fake,No,product_images/img_1217.jpg
+R219,P1052,Fake,Yes,product_images/img_1218.jpg
+R220,P1000,Fake,Yes,product_images/img_1219.jpg
+R221,P1022,Damaged,Yes,product_images/img_1220.jpg
+R222,P1053,Fake,Yes,product_images/img_1221.jpg
+R223,P1068,Wrong Item,Yes,product_images/img_1222.jpg
+R224,P1015,Damaged,No,product_images/img_1223.jpg
+R225,P1058,Fake,Yes,product_images/img_1224.jpg
+R226,P1003,Wrong Item,No,product_images/img_1225.jpg
+R227,P1034,Fake,Yes,product_images/img_1226.jpg
+R228,P1057,Wrong Item,No,product_images/img_1227.jpg
+R229,P1095,Fake,No,product_images/img_1228.jpg
+R230,P1016,Fake,Yes,product_images/img_1229.jpg
+R231,P1012,Wrong Item,No,product_images/img_1230.jpg
+R232,P1052,Damaged,Yes,product_images/img_1231.jpg
+R233,P1041,Fake,Yes,product_images/img_1232.jpg
+R234,P1010,Fake,No,product_images/img_1233.jpg
+R235,P1052,Fake,Yes,product_images/img_1234.jpg
+R236,P1023,Defective,Yes,product_images/img_1235.jpg
+R237,P1009,Fake,Yes,product_images/img_1236.jpg
+R238,P1032,Fake,No,product_images/img_1237.jpg
+R239,P1085,Fake,No,product_images/img_1238.jpg
+R240,P1042,Wrong Item,Yes,product_images/img_1239.jpg
+R241,P1023,Defective,No,product_images/img_1240.jpg
+R242,P1015,Wrong Item,No,product_images/img_1241.jpg
+R243,P1099,Wrong Item,No,product_images/img_1242.jpg
+R244,P1084,Fake,Yes,product_images/img_1243.jpg
+R245,P1076,Damaged,No,product_images/img_1244.jpg
+R246,P1006,Wrong Item,Yes,product_images/img_1245.jpg
+R247,P1009,Fake,Yes,product_images/img_1246.jpg
+R248,P1027,Defective,Yes,product_images/img_1247.jpg
+R249,P1098,Defective,No,product_images/img_1248.jpg
+R250,P1065,Fake,No,product_images/img_1249.jpg
+R251,P1087,Damaged,No,product_images/img_1250.jpg
+R252,P1039,Defective,No,product_images/img_1251.jpg
+R253,P1063,Damaged,Yes,product_images/img_1252.jpg
+R254,P1049,Wrong Item,No,product_images/img_1253.jpg
+R255,P1059,Wrong Item,Yes,product_images/img_1254.jpg
+R256,P1099,Damaged,Yes,product_images/img_1255.jpg
+R257,P1004,Fake,No,product_images/img_1256.jpg
+R258,P1077,Fake,No,product_images/img_1257.jpg
+R259,P1066,Fake,No,product_images/img_1258.jpg
+R260,P1012,Wrong Item,Yes,product_images/img_1259.jpg
+R261,P1059,Damaged,No,product_images/img_1260.jpg
+R262,P1030,Fake,No,product_images/img_1261.jpg
+R263,P1076,Fake,No,product_images/img_1262.jpg
+R264,P1012,Wrong Item,No,product_images/img_1263.jpg
+R265,P1075,Wrong Item,Yes,product_images/img_1264.jpg
+R266,P1020,Defective,Yes,product_images/img_1265.jpg
+R267,P1024,Wrong Item,No,product_images/img_1266.jpg
+R268,P1085,Damaged,Yes,product_images/img_1267.jpg
+R269,P1068,Wrong Item,Yes,product_images/img_1268.jpg
+R270,P1003,Fake,Yes,product_images/img_1269.jpg
+R271,P1014,Fake,Yes,product_images/img_1270.jpg
+R272,P1088,Fake,Yes,product_images/img_1271.jpg
+R273,P1078,Defective,No,product_images/img_1272.jpg
+R274,P1036,Defective,Yes,product_images/img_1273.jpg
+R275,P1012,Fake,Yes,product_images/img_1274.jpg
+R276,P1001,Defective,No,product_images/img_1275.jpg
+R277,P1086,Wrong Item,No,product_images/img_1276.jpg
+R278,P1057,Defective,Yes,product_images/img_1277.jpg
+R279,P1052,Damaged,No,product_images/img_1278.jpg
+R280,P1017,Defective,No,product_images/img_1279.jpg
+R281,P1085,Defective,No,product_images/img_1280.jpg
+R282,P1075,Wrong Item,Yes,product_images/img_1281.jpg
+R283,P1012,Defective,Yes,product_images/img_1282.jpg
+R284,P1007,Wrong Item,Yes,product_images/img_1283.jpg
+R285,P1081,Fake,Yes,product_images/img_1284.jpg
+R286,P1063,Defective,No,product_images/img_1285.jpg
+R287,P1087,Wrong Item,Yes,product_images/img_1286.jpg
+R288,P1089,Wrong Item,Yes,product_images/img_1287.jpg
+R289,P1063,Damaged,Yes,product_images/img_1288.jpg
+R290,P1085,Defective,Yes,product_images/img_1289.jpg
+R291,P1011,Fake,Yes,product_images/img_1290.jpg
+R292,P1006,Defective,Yes,product_images/img_1291.jpg
+R293,P1046,Wrong Item,No,product_images/img_1292.jpg
+R294,P1044,Wrong Item,Yes,product_images/img_1293.jpg
+R295,P1091,Defective,Yes,product_images/img_1294.jpg
+R296,P1047,Fake,Yes,product_images/img_1295.jpg
+R297,P1038,Defective,Yes,product_images/img_1296.jpg
+R298,P1099,Defective,No,product_images/img_1297.jpg
+R299,P1056,Fake,No,product_images/img_1298.jpg
+R300,P1020,Wrong Item,No,product_images/img_1299.jpg
