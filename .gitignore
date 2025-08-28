@@ -1,0 +1,34 @@
+# Python virtual environment
+venv/
+/venv
+.venv/
+/.venv
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE and editor folders
+.vscode/
+.idea/
+
+# Local data files - IMPORTANT!
+# We will upload data to Cloud Storage, not store it in Git.
+data/*.csv
+data/*.json
+data/*.zip
+data/images_raw/
+
+# Secret files - CRITICAL!
+*.json
+credentials.json
+*.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
